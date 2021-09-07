@@ -1,4 +1,4 @@
-# 김도운 팀프로젝트 git 저장소
+# 한남규 팀프로젝트 git 저장소
 ## 프로젝트명 GOOD 
 ### http://itproject.ezenac.co.kr/goodspring/
 
@@ -15,13 +15,12 @@
 ## 개발 언어 환경 
 
 
-```java 
-springframework
-html5
-css3
-apache
-javascript
-Ajax
-mysql
+```
+Front - end
+HTML5,CSS, Javascript 1.0, jQuery 1.11.3, Bootstrap 3.3.7, Ajax
+
+Back -end
+Java 11, JSP, Spring Framework 5.3.2, Eclipse IDE 4.19.0, Tomcat9 9.0.52
+
 ```
 
