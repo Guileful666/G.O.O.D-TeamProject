@@ -27,10 +27,10 @@ Java 11, JSP, Spring Framework 5.3.2, Eclipse IDE 4.19.0, Tomcat9 9.0.52
 ## 메인 화면
 
 ![image](https://user-images.githubusercontent.com/81571770/132345538-86f36703-b012-4a73-abe3-04b082d68fcf.png)
-
+![image](https://user-images.githubusercontent.com/81571770/132468697-4cf92881-c332-4aaf-aa03-8c042ada09ec.png)
 
 ## 페이지 및 기능
-* 메인 페이지: 캐러셀을 통한 각종 페이지 정보 랜덤으로 표기, Open API 정보를 db에 저장 후 경위도 값으로 각 코스별 map에 라인 표시, 코스 및 문화체육 찜하기 기능 구현.
+* 메인 페이지: 캐러셀을 통한 각종 페이지 정보 랜덤으로 표기, Open API 정보를 JSON 파일로 변환 후 좌표값을 map에 라인으로 표시, 코스 및 문화체육 찜하기 기능 구현.
 * 로그인 페이지:
 * 회원가입 페이지:
 * 회원정보수정 페이지:
